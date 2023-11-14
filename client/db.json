@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "description": "Study Redux state management library",
+      "dueDate": "2023-12-15",
+      "priority": "medium",
+      "completed": true
+    },
+    {
+      "title": "mmmmmmmm",
+      "description": "nnnnn",
+      "dueDate": "2030-10-10",
+      "priority": "high",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "title": "Bashar",
+      "description": "Nidal",
+      "dueDate": "2023-10-10",
+      "priority": "medium",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Niadl kkkk",
+      "description": "pppp",
+      "dueDate": "2023-10-10",
+      "priority": "medium",
+      "completed": false
+    }
+  ]
+}
